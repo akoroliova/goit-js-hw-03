@@ -1,1 +1,1 @@
-GoIT JavaScript Module2 homework
+GoIT JavaScript Module3 homework
